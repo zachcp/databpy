@@ -3,7 +3,7 @@ name = "databpy"
 version = "0.0.9"
 description = "A data-oriented wrapper library for the Blender Python API"
 readme = "README.md"
-dependencies = ["numpy>=2"]
+dependencies = ["numpy"]
 requires-python = "~=3.11.0"
 keywords = ["blender", "python", "numpy"]
 maintainers = [{ name = "Brady Johnston", email = "brady.johnston@me.com" }]
